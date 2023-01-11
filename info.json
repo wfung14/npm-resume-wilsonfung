@@ -1,0 +1,30 @@
+{
+    "name": "Wilson Fung",
+    "website": "https://tomatohammado.github.io/",
+    "linkedin": "n/a",
+    "github": "tomatohammado",
+    "email": "wilson.fung96@yahoo.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Microsoft Excel"
+    ],
+    "interests": [
+        "Basketball",
+        "Baseball",
+        "Reading",
+        "Snowboarding"
+    ]
+}
